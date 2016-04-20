@@ -33,7 +33,7 @@
     "test": "grunt test"
   },
   "dependencies": {
-    "dts-bundle": "^0.3.0"
+    "dts-bundle": "^0.4.3"
   },
   "devDependencies": {
     "grunt": "^0.4.5",
