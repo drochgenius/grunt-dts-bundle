@@ -1,7 +1,7 @@
 {
   "name": "grunt-dts-bundle",
   "description": "Export TypeScript .d.ts files as an external module definition",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "homepage": "https://github.com/grunt-ts/grunt-dts-bundle",
   "author": {
     "name": "Bart van der Schoor",
